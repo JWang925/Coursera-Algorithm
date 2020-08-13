@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1e4f978-b3bd-4ae1-84e9-9e1170bce808" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="DISPLAY_NOTIFICATION_POPUP" value="false" />
+    <option name="CLEAR_OUTPUT_DIRECTORY" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+    <option name="SCHEME" value="Project" />
+  </component>
+  <component name="FindBugs-IDEA-Workspace">
+    <analyzeAfterCompile>true</analyzeAfterCompile>
+    <toolWindowToFront>false</toolWindowToFront>
+  </component>
+  <component name="ProjectId" id="1fII8ljdO1Fx20yWRRNDKX3gRcw" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showModules" value="false" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ToolWindowMessages.ShowToolbar" value="false" />
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="settings.saveactions" />
+  </component>
+  <component name="RunManager" selected="Application.Solver">
+    <configuration name="Board" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Board" />
+      <module name="Algorithms, Part I" />
+      <option name="PROGRAM_PARAMETERS" value="puzzle2x2-unsolvable1.txt" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Solver" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Solver" />
+      <module name="Algorithms, Part I" />
+      <option name="PROGRAM_PARAMETERS" value="puzzle01.txt" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser" timestamp="1596336077580">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1366.312.1366.768@0.0.1920.1040" timestamp="1596336077580" />
+    <state width="1366" height="284" key="GridCell.Tab.0.bottom" timestamp="1596663165260">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1366" height="284" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596663165260" />
+    <state width="1920" height="284" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1366.312.1366.768@0.0.1920.1040" timestamp="1596419882308" />
+    <state width="1366" height="284" key="GridCell.Tab.0.center" timestamp="1596663165260">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1366" height="284" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1596663165260" />
+    <state width="1920" height="284" key="GridCell.Tab.0.center/0.0.1920.1040/-1366.312.1366.768@0.0.1920.1040" timestamp="1596419882308" />
+    <state width="1366" height="284" key="GridCell.Tab.0.left" timestamp="1596663165259">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1366" height="284" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1596663165259" />
+    <state width="1920" height="284" key="GridCell.Tab.0.left/0.0.1920.1040/-1366.312.1366.768@0.0.1920.1040" timestamp="1596419882308" />
+    <state width="1366" height="284" key="GridCell.Tab.0.right" timestamp="1596663165260">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1366" height="284" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596663165260" />
+    <state width="1920" height="284" key="GridCell.Tab.0.right/0.0.1920.1040/-1366.312.1366.768@0.0.1920.1040" timestamp="1596419882308" />
+    <state width="1920" height="362" key="GridCell.Tab.1.bottom" timestamp="1596663165255">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1920" height="362" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596663165255" />
+    <state width="1920" height="362" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1366.312.1366.768@0.0.1920.1040" timestamp="1596337589433" />
+    <state width="1920" height="362" key="GridCell.Tab.1.center" timestamp="1596663165255">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1920" height="362" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1596663165255" />
+    <state width="1920" height="362" key="GridCell.Tab.1.center/0.0.1920.1040/-1366.312.1366.768@0.0.1920.1040" timestamp="1596337589432" />
+    <state width="1920" height="362" key="GridCell.Tab.1.left" timestamp="1596663165255">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1920" height="362" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1596663165255" />
+    <state width="1920" height="362" key="GridCell.Tab.1.left/0.0.1920.1040/-1366.312.1366.768@0.0.1920.1040" timestamp="1596337589432" />
+    <state width="1920" height="362" key="GridCell.Tab.1.right" timestamp="1596663165255">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1920" height="362" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1596663165255" />
+    <state width="1920" height="362" key="GridCell.Tab.1.right/0.0.1920.1040/-1366.312.1366.768@0.0.1920.1040" timestamp="1596337589433" />
+    <state x="540" y="262" key="IDE.errors.dialog" timestamp="1595993088727">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="262" key="IDE.errors.dialog/0.0.1920.1040/-1366.312.1366.768@0.0.1920.1040" timestamp="1595993088727" />
+    <state x="530" y="248" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1596337354620">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="530" y="248" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040/-1366.312.1366.768@0.0.1920.1040" timestamp="1596337354620" />
+  </component>
+</project>
