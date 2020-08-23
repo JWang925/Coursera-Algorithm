@@ -58,6 +58,9 @@ public class KdTree {
             return;
         }
 
+        if (pt.equals(kdnode.point))
+            return;
+
         if (kdnode.d == 0) {
             if (kdnode.point.x() > pt.x()) {
                 if (kdnode.leftChild == null) {
@@ -105,8 +108,8 @@ public class KdTree {
         if (p == null) {
             throw new IllegalArgumentException("cannot query null pt");
         }
+        return containsSubTree(root, p);
 
-        return true;
     }
 
     // check if point is in a subtree
@@ -185,6 +188,8 @@ public class KdTree {
 
     // a nearest neighbor in the set to point p; null if the set is empty
     public Point2D nearest(Point2D p) {
+        if (p == null)
+            throw new IllegalArgumentException("argument cannot be null for nearest");
         if (isEmpty()) {
             return null;
         }
@@ -294,6 +299,10 @@ public class KdTree {
         System.out.println(testTree.size());
         testTree.draw();
         System.out.println(testTree.contains(new Point2D(299, 333)));
+
+        System.out.println(testTree.contains(new Point2D(2, 2)));
+        System.out.println(testTree.contains(new Point2D(2, 3)));
+
 
         RectHV rect = new RectHV(100, 120, 300, 400);
         System.out.println(testTree.range(rect));
